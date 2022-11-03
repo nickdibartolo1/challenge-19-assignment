@@ -1,10 +1,10 @@
 ## Title
-# challenge-19-assignment: Progressive Web Applications (PWA): Text Editor
+# Challenge-19-assignment: Progressive Web Applications (PWA): Text Editor
 
 ## Description
 x
 ## Table of Contents
-- [challenge-19-assignment: Progressive Web Applications (PWA) Text Editor ](#challenge-19-assignment: (PWA) )
+- [Challenge-19-assignment: Progressive Web Applications (PWA) Text Editor ](#challenge-19-assignment: (PWA) )
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Applications Used](#applications-used)
